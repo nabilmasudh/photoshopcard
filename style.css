@@ -1,0 +1,54 @@
+/*  navebar start here */
+
+
+/*  navebar start here */
+
+ #feedback{
+    background: #A3A958;
+    padding: 7% 10%;
+  }
+  .hr-style{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 50px;
+  }
+  .carousel-item{
+    text-align: center;
+  }
+  .carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic;
+  }
+  .feedack-img{
+    width: 150px;
+    height: 160px;
+  }
+
+/* card start here*/
+
+.hr-style{
+  border: 5px dotted black;
+  border-bottom: none;
+  width: 227px;  
+}
+.cards{
+  padding: 4% 10%;
+  background-color: #A3A958;
+}
+.card{
+  transition: .4s;
+  border: 2px solid #fff;
+}
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: 2px 6px 5px black;
+}
+
+/* card end here*/
+.footersection {
+    padding: 19px;
+    margin: 1px solid black;
+    text-align: center;
+    background-color: black;
+}
